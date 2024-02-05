@@ -10,7 +10,4 @@ a) G3-7_1.py
 
 TEXT FILES
 ----------
-a) admin_password (contains password for accessing admin interface)
-b)customerinfo (stores each customer personal information, also containing a dumy data)
-c) 1966267 (is account of a cutomer, i.e dumy data)
-f) Tansaction_history (keep track of all transactions made)
+admin_password (contains password for accessing admin interface), customerinfo (stores each customer personal information, also containing a dumy data), 1966267 (is account of a cutomer, i.e dumy data), Tansaction_history (keep track of all transactions made)
